@@ -1,0 +1,286 @@
+name: app_frontend
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase: ^8.0.0
+  firebase_auth: ^0.18.4+1
+  cloud_firestore: ^0.14.4
+  firebase_storage: ^5.2.0
+  csv: ^4.0.3
+  path_provider: ^1.6.7
+  faker: ^1.2.1
+  flutter_secure_storage: ^3.3.3
+  flutter_spinkit: ^4.1.2+1
+  carousel_pro: ^1.0.0
+  font_awesome_flutter: ^8.8.1
+  modal_bottom_sheet: ^0.1.5
+  sliver_glue: ^1.2.0
+  expandable: ^4.1.4
+  flutter_credit_card: ^0.1.3
+  image_downloader: ^0.20.0
+  timeago: ^2.0.26
+  shared_preferences: ^0.5.8
+  device_preview: ^0.4.7
+  jwt_decode: ^0.3.1
+  connectivity: ^3.0.3
+  get: ^4.1.4
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/shop/
+    - assets/csv/PRODUCTS_MOCK_DATA.csv
+    - assets/csv/CATEGORY_MOCK_DATA.csv
+    - assets/onBoarding/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+     - family: NovaSquare
+       fonts:
+         - asset: fonts/NovaSquare.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
+
+# hobby-session-3
+
+# hobby-session-6
+
+# hobby-session-13
+
+# hobby-session-15
+
+# hobby-session-18
+
+# hobby-session-19
+
+# hobby-session-27
+
+# hobby-session-31
+
+# hobby-session-36
+
+# hobby-session-37
+
+# hobby-session-45
+
+# hobby-session-51
+
+# hobby-session-57
+
+# hobby-session-62
+
+# hobby-session-66
+
+# hobby-session-70
+
+# hobby-session-74
+
+# hobby-session-76
+
+# hobby-session-85
+
+# hobby-session-86
+
+# hobby-session-87
+
+# hobby-session-92
+
+# hobby-session-99
+
+# hobby-session-103
+
+# hobby-session-104
+
+# hobby-session-105
+
+# hobby-session-109
+
+# hobby-session-113
+
+# hobby-session-114
+
+# hobby-session-117
+
+# hobby-session-118
+
+# hobby-session-123
+
+# hobby-session-125
+
+# hobby-session-131
+
+# hobby-session-134
+
+# hobby-session-143
+
+# hobby-session-149
+
+# hobby-session-150
+
+# hobby-session-153
+
+# hobby-session-158
+
+# hobby-session-171
+
+# hobby-session-172
+
+# hobby-session-179
+
+# hobby-session-182
+
+# hobby-session-198
+
+# hobby-session-200
+
+# hobby-session-223
+
+# hobby-session-227
+
+# hobby-session-234
+
+# hobby-session-243
+
+# hobby-session-244
+
+# hobby-session-248
+
+# hobby-session-257
+
+# hobby-session-265
+
+# hobby-session-266
+
+# hobby-session-269
+
+# hobby-session-270
+
+# hobby-session-271
+
+# hobby-session-277
+
+# hobby-session-282
+
+# hobby-session-290
+
+# hobby-session-316
+
+# hobby-session-317
+
+# hobby-session-326
+
+# hobby-session-329
+
+# hobby-session-330
+
+# hobby-session-332
+
+# hobby-session-333
+
+# hobby-session-347
+
+# hobby-session-348
+
+# hobby-session-356
+
+# hobby-session-363
+
+# hobby-session-364
+
+# hobby-session-366
+
+# hobby-session-381
+
+# hobby-session-383
+
+# hobby-session-391
+
+# hobby-session-392
+
+# hobby-session-402
+
+# hobby-session-403
+
+# hobby-session-408
+
+# hobby-session-411
+
+# hobby-session-419
+
+# hobby-session-422
+
+# hobby-session-437
+
+# hobby-session-438
+
+# hobby-session-441
+
+# hobby-session-444
+
+# hobby-session-446
+
+# hobby-session-461
+
+# hobby-session-465
+
+# hobby-session-478
+
+# hobby-session-485
+
+# hobby-session-493
+
+# hobby-session-494
