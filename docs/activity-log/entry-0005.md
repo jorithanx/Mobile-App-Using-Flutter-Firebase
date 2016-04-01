@@ -1,6 +1,6 @@
 # Side-project note 5
 
-**When:** 2015-07-08 21:29
-**Summary:** build(lib): tweak Vite config for faster dev
+**When:** 2016-03-31 22:58
+**Summary:** docs(assets): comment the workaround so I remember the tradeoff
 
 Scratch log for a hobby build — pairs with the commit message above.
