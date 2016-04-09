@@ -1,6 +1,6 @@
 # Side-project note 7
 
-**When:** 2015-07-10 19:08
-**Summary:** refactor(lib): split mixed concerns before it grows
+**When:** 2016-04-08 20:00
+**Summary:** test(assets): add a quick test for auth guard
 
 Scratch log for a hobby build — pairs with the commit message above.
