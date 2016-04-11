@@ -1,6 +1,6 @@
 # Side-project note 9
 
-**When:** 2015-07-10 21:42
-**Summary:** test(fonts): add a quick test for happy path
+**When:** 2016-04-11 07:51
+**Summary:** feat(fonts): sketch a rough UI for personal dashboard
 
 Scratch log for a hobby build — pairs with the commit message above.
