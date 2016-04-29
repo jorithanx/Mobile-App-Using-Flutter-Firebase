@@ -1,6 +1,6 @@
 # Side-project note 16
 
-**When:** 2015-07-31 09:18
-**Summary:** test(ios): add a quick test for the parser
+**When:** 2016-04-28 20:03
+**Summary:** feat(ios): add export button — good enough for now
 
 Scratch log for a hobby build — pairs with the commit message above.
