@@ -1,6 +1,6 @@
 # Side-project note 29
 
-**When:** 2015-08-31 20:12
-**Summary:** ci(android): fix artifact path in GitHub Action
+**When:** 2016-06-24 20:34
+**Summary:** feat(fonts): add keyboard shortcut — good enough for now
 
 Scratch log for a hobby build — pairs with the commit message above.
