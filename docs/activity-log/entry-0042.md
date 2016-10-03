@@ -1,6 +1,6 @@
 # Side-project note 42
 
-**When:** 2015-10-06 22:25
-**Summary:** docs(android): README: how to run locally
+**When:** 2016-10-03 08:41
+**Summary:** chore(fonts): housekeeping: ignore build artifacts
 
 Scratch log for a hobby build — pairs with the commit message above.
