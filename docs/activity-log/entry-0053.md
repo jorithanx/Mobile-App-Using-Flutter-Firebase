@@ -1,6 +1,6 @@
 # Side-project note 53
 
-**When:** 2015-12-07 20:48
-**Summary:** feat(android): add keyboard shortcut — good enough for now
+**When:** 2016-10-26 19:23
+**Summary:** chore(assets): housekeeping: drop unused asset
 
 Scratch log for a hobby build — pairs with the commit message above.
