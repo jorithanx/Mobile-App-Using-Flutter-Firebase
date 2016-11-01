@@ -1,6 +1,6 @@
 # Side-project note 55
 
-**When:** 2015-12-07 23:00
-**Summary:** docs(android): README: how to run locally
+**When:** 2016-11-01 14:11
+**Summary:** refactor(lib): clean up dead experiments while coffee in hand
 
 Scratch log for a hobby build — pairs with the commit message above.
