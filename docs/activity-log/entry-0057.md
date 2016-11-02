@@ -1,6 +1,6 @@
 # Side-project note 57
 
-**When:** 2015-12-09 19:15
-**Summary:** feat(fonts): sketch a prototype screen for learning sandbox
+**When:** 2016-11-01 19:59
+**Summary:** test(ios): add a quick test for happy path
 
 Scratch log for a hobby build — pairs with the commit message above.
