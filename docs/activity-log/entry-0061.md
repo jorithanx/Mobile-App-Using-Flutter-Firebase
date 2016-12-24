@@ -1,6 +1,6 @@
 # Side-project note 61
 
-**When:** 2015-12-15 07:10
-**Summary:** test(assets): lock in the refactor before I change my mind
+**When:** 2016-12-23 21:36
+**Summary:** feat(assets): try local-first storage after a friend's suggestion
 
 Scratch log for a hobby build — pairs with the commit message above.
