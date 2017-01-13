@@ -1,6 +1,6 @@
 # Side-project note 63
 
-**When:** 2015-12-25 20:12
-**Summary:** fix(android): unbreak types (turns out it was a typo)
+**When:** 2017-01-13 08:23
+**Summary:** build(docs): tweak Cargo config for fewer warnings
 
 Scratch log for a hobby build — pairs with the commit message above.
