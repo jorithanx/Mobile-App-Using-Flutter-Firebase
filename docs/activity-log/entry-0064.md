@@ -1,6 +1,6 @@
 # Side-project note 64
 
-**When:** 2015-12-25 20:25
-**Summary:** build(lib): tweak ESLint config for fewer warnings
+**When:** 2017-01-13 14:46
+**Summary:** chore(ios): format + remove console logs
 
 Scratch log for a hobby build — pairs with the commit message above.
