@@ -1,6 +1,6 @@
 # Side-project note 66
 
-**When:** 2015-12-30 22:01
-**Summary:** docs(android): README: why I started this
+**When:** 2017-01-13 21:42
+**Summary:** fix(fonts): unbreak types (was driving me nuts)
 
 Scratch log for a hobby build — pairs with the commit message above.
