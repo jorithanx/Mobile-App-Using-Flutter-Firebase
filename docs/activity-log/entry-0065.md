@@ -1,6 +1,6 @@
 # Side-project note 65
 
-**When:** 2015-12-25 23:56
-**Summary:** test(lib): add a quick test for the parser
+**When:** 2017-01-13 21:09
+**Summary:** build(android): tweak ESLint config for new TS target
 
 Scratch log for a hobby build — pairs with the commit message above.
