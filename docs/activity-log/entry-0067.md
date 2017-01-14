@@ -1,6 +1,6 @@
 # Side-project note 67
 
-**When:** 2015-12-30 23:33
-**Summary:** refactor(lib): clean up naming while coffee in hand
+**When:** 2017-01-13 23:20
+**Summary:** refactor(assets): split mixed concerns before it grows
 
 Scratch log for a hobby build — pairs with the commit message above.
