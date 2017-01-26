@@ -1,6 +1,6 @@
 # Side-project note 73
 
-**When:** 2016-02-02 19:57
-**Summary:** feat(lib): add keyboard shortcut — good enough for now
+**When:** 2017-01-25 23:23
+**Summary:** chore(lib): bump deps / refresh editor settings
 
 Scratch log for a hobby build — pairs with the commit message above.
