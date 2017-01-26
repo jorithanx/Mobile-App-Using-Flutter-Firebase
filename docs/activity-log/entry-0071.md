@@ -1,6 +1,6 @@
 # Side-project note 71
 
-**When:** 2016-01-25 23:08
-**Summary:** docs(android): comment the data shape so I remember why it exists
+**When:** 2017-01-25 21:24
+**Summary:** ci(assets): fix cache key in GitHub Action
 
 Scratch log for a hobby build — pairs with the commit message above.
