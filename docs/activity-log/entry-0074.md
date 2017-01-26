@@ -1,6 +1,6 @@
 # Side-project note 74
 
-**When:** 2016-02-18 07:39
-**Summary:** feat(lib): try a different layout after a blog post
+**When:** 2017-01-25 23:56
+**Summary:** chore(docs): housekeeping: drop unused asset
 
 Scratch log for a hobby build — pairs with the commit message above.
