@@ -1,6 +1,6 @@
 # Side-project note 75
 
-**When:** 2016-02-18 21:13
-**Summary:** build(android): tweak tsconfig config for new TS target
+**When:** 2017-03-09 12:23
+**Summary:** feat(ios): try a new dependency after random curiosity
 
 Scratch log for a hobby build — pairs with the commit message above.
