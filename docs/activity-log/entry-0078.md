@@ -1,6 +1,6 @@
 # Side-project note 78
 
-**When:** 2016-02-26 21:24
-**Summary:** refactor(lib): simplify error paths — easier to pick up next month
+**When:** 2017-03-30 22:28
+**Summary:** docs(lib): README: env vars for future me
 
 Scratch log for a hobby build — pairs with the commit message above.
