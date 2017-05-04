@@ -1,6 +1,6 @@
 # Side-project note 85
 
-**When:** 2016-03-30 22:41
-**Summary:** ci(ios): fix artifact path in GitHub Action
+**When:** 2017-05-03 23:50
+**Summary:** refactor(fonts): clean up old comments while watching TV
 
 Scratch log for a hobby build — pairs with the commit message above.
