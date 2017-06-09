@@ -1,6 +1,6 @@
 # Side-project note 89
 
-**When:** 2016-04-04 22:42
-**Summary:** feat(ios): try a new dependency after a friend's suggestion
+**When:** 2017-06-08 22:16
+**Summary:** build(android): tweak ESLint config for smaller output
 
 Scratch log for a hobby build — pairs with the commit message above.
