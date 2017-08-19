@@ -1,6 +1,6 @@
 # Side-project note 102
 
-**When:** 2016-06-17 07:14
-**Summary:** build(ios): tweak Vite config for new TS target
+**When:** 2017-08-18 20:18
+**Summary:** feat(android): add dark mode toggle — quick win
 
 Scratch log for a hobby build — pairs with the commit message above.
