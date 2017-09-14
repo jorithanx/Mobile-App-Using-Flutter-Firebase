@@ -1,6 +1,6 @@
 # Side-project note 103
 
-**When:** 2016-07-06 13:58
-**Summary:** feat(lib): add dark mode toggle — quick win
+**When:** 2017-09-14 12:27
+**Summary:** chore(lib): format + small tidy
 
 Scratch log for a hobby build — pairs with the commit message above.
