@@ -1,6 +1,6 @@
 # Side-project note 104
 
-**When:** 2016-07-06 19:28
-**Summary:** refactor(android): simplify the data layer — easier to show a friend
+**When:** 2017-09-28 09:40
+**Summary:** chore(android): format + lint fixes
 
 Scratch log for a hobby build — pairs with the commit message above.
