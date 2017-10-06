@@ -1,6 +1,6 @@
 # Side-project note 110
 
-**When:** 2016-07-22 19:53
-**Summary:** feat(ios): try a different layout after a blog post
+**When:** 2017-10-05 23:38
+**Summary:** chore(lib): housekeeping: sync .nvmrc
 
 Scratch log for a hobby build — pairs with the commit message above.
