@@ -1,6 +1,6 @@
 # Side-project note 113
 
-**When:** 2016-08-05 07:35
-**Summary:** chore(android): housekeeping: rename folder
+**When:** 2017-10-11 08:06
+**Summary:** refactor(android): clean up dead experiments while procrastinating the hard part
 
 Scratch log for a hobby build — pairs with the commit message above.
