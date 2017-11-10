@@ -1,6 +1,6 @@
 # Side-project note 116
 
-**When:** 2016-08-05 20:42
-**Summary:** refactor(ios): clean up dead experiments while procrastinating the hard part
+**When:** 2017-11-09 22:49
+**Summary:** fix(lib): stop the crash on reload when submitting empty input
 
 Scratch log for a hobby build — pairs with the commit message above.
