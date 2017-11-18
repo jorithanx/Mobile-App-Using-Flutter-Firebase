@@ -1,6 +1,6 @@
 # Side-project note 119
 
-**When:** 2016-08-11 20:30
-**Summary:** fix(android): unbreak dev server (was driving me nuts)
+**When:** 2017-11-17 23:12
+**Summary:** build(assets): tweak webpack config for faster dev
 
 Scratch log for a hobby build — pairs with the commit message above.
