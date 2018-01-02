@@ -1,6 +1,6 @@
 # Side-project note 128
 
-**When:** 2016-09-21 22:39
-**Summary:** refactor(ios): simplify config loading — easier to show a friend
+**When:** 2018-01-01 19:07
+**Summary:** test(lib): add a quick test for edge dates
 
 Scratch log for a hobby build — pairs with the commit message above.
