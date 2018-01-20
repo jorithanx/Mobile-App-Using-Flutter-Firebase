@@ -1,6 +1,6 @@
 # Side-project note 133
 
-**When:** 2016-10-04 19:44
-**Summary:** test(assets): lock in one regression before I ship something dumb
+**When:** 2018-01-19 23:14
+**Summary:** feat(lib): add keyboard shortcut — good enough for now
 
 Scratch log for a hobby build — pairs with the commit message above.
