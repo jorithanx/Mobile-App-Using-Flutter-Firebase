@@ -1,6 +1,6 @@
 # Side-project note 135
 
-**When:** 2016-10-17 22:27
-**Summary:** build(android): tweak Vite config for new TS target
+**When:** 2018-02-06 20:56
+**Summary:** feat(lib): try local-first storage after a tutorial
 
 Scratch log for a hobby build — pairs with the commit message above.
