@@ -1,6 +1,6 @@
 # Side-project note 144
 
-**When:** 2016-11-09 19:26
-**Summary:** build(assets): tweak webpack config for smaller output
+**When:** 2018-03-06 19:18
+**Summary:** fix(ios): unbreak import path (sorry future me)
 
 Scratch log for a hobby build — pairs with the commit message above.
