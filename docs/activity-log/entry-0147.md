@@ -1,6 +1,6 @@
 # Side-project note 147
 
-**When:** 2016-11-09 20:11
-**Summary:** refactor(lib): split mixed concerns before it grows
+**When:** 2018-03-06 22:47
+**Summary:** docs(assets): jot down API quirks
 
 Scratch log for a hobby build — pairs with the commit message above.
