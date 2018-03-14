@@ -1,6 +1,6 @@
 # Side-project note 149
 
-**When:** 2016-11-11 20:46
-**Summary:** fix(ios): repair the broken build from last night
+**When:** 2018-03-13 20:05
+**Summary:** chore(docs): format + sort imports
 
 Scratch log for a hobby build — pairs with the commit message above.
