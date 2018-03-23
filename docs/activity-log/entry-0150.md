@@ -1,6 +1,6 @@
 # Side-project note 150
 
-**When:** 2016-11-11 21:43
-**Summary:** test(lib): lock in the refactor before I ship something dumb
+**When:** 2018-03-23 12:21
+**Summary:** chore(fonts): bump deps / refresh lockfile
 
 Scratch log for a hobby build — pairs with the commit message above.
