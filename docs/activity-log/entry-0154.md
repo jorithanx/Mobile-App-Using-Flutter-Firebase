@@ -1,6 +1,6 @@
 # Side-project note 154
 
-**When:** 2016-12-13 19:08
-**Summary:** fix(assets): repair copy-paste mistake from last night
+**When:** 2018-04-24 20:55
+**Summary:** chore(docs): bump deps / refresh lint config
 
 Scratch log for a hobby build — pairs with the commit message above.
