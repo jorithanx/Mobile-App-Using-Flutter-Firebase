@@ -1,6 +1,6 @@
 # Side-project note 173
 
-**When:** 2017-01-31 23:41
-**Summary:** fix(android): unbreak import path (was driving me nuts)
+**When:** 2018-06-14 21:26
+**Summary:** fix(fonts): stop stale data showing when using Safari
 
 Scratch log for a hobby build — pairs with the commit message above.
