@@ -1,6 +1,6 @@
 # Side-project note 180
 
-**When:** 2017-03-21 20:49
-**Summary:** test(ios): lock in the refactor before I break it again
+**When:** 2018-07-24 13:47
+**Summary:** build(android): tweak Vite config for smaller output
 
 Scratch log for a hobby build — pairs with the commit message above.
