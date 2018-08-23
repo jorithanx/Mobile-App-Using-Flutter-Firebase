@@ -1,6 +1,6 @@
 # Side-project note 190
 
-**When:** 2017-06-23 20:50
-**Summary:** feat(fonts): sketch a rough UI for learning sandbox
+**When:** 2018-08-22 19:10
+**Summary:** test(assets): add a quick test for happy path
 
 Scratch log for a hobby build — pairs with the commit message above.
