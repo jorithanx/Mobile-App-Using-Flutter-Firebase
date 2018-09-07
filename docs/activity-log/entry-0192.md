@@ -1,6 +1,6 @@
 # Side-project note 192
 
-**When:** 2017-06-27 19:55
-**Summary:** build(fonts): tweak Vite config for faster dev
+**When:** 2018-09-06 23:40
+**Summary:** build(ios): tweak Vite config for smaller output
 
 Scratch log for a hobby build — pairs with the commit message above.
