@@ -1,6 +1,6 @@
 # Side-project note 195
 
-**When:** 2017-06-27 23:45
-**Summary:** refactor(android): split duplicate helpers before it grows
+**When:** 2018-10-03 12:23
+**Summary:** fix(ios): unbreak types (turns out it was a typo)
 
 Scratch log for a hobby build — pairs with the commit message above.
