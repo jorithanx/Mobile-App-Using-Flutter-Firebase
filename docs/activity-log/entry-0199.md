@@ -1,6 +1,6 @@
 # Side-project note 199
 
-**When:** 2017-09-25 20:33
-**Summary:** chore(fonts): format + remove console logs
+**When:** 2018-10-03 23:10
+**Summary:** feat(android): sketch a first-pass flow for weekend experiment
 
 Scratch log for a hobby build — pairs with the commit message above.
