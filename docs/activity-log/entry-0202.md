@@ -1,6 +1,6 @@
 # Side-project note 202
 
-**When:** 2017-09-29 08:27
-**Summary:** docs(ios): README: env vars for future me
+**When:** 2018-10-08 07:12
+**Summary:** fix(lib): unbreak routing (sorry future me)
 
 Scratch log for a hobby build — pairs with the commit message above.
