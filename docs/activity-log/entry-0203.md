@@ -1,6 +1,6 @@
 # Side-project note 203
 
-**When:** 2017-09-29 22:16
-**Summary:** refactor(fonts): split mixed concerns before it grows
+**When:** 2018-10-31 19:48
+**Summary:** fix(assets): repair copy-paste mistake from last night
 
 Scratch log for a hobby build — pairs with the commit message above.
