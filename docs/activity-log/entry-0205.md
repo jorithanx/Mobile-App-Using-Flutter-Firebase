@@ -1,6 +1,6 @@
 # Side-project note 205
 
-**When:** 2017-10-11 12:23
-**Summary:** chore(assets): housekeeping: ignore build artifacts
+**When:** 2018-11-02 12:29
+**Summary:** refactor(ios): clean up dead experiments while watching TV
 
 Scratch log for a hobby build — pairs with the commit message above.
