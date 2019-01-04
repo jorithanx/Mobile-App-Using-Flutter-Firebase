@@ -1,6 +1,6 @@
 # Side-project note 213
 
-**When:** 2017-10-20 20:10
-**Summary:** test(assets): add a quick test for auth guard
+**When:** 2019-01-03 19:40
+**Summary:** fix(ios): unbreak dev server (was driving me nuts)
 
 Scratch log for a hobby build — pairs with the commit message above.
