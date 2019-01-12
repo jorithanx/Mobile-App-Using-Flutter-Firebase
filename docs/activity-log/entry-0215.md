@@ -1,6 +1,6 @@
 # Side-project note 215
 
-**When:** 2017-10-20 22:02
-**Summary:** refactor(lib): clean up dead experiments while procrastinating the hard part
+**When:** 2019-01-11 19:22
+**Summary:** docs(fonts): jot down API quirks
 
 Scratch log for a hobby build — pairs with the commit message above.
