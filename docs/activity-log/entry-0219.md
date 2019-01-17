@@ -1,6 +1,6 @@
 # Side-project note 219
 
-**When:** 2017-11-01 19:25
-**Summary:** docs(lib): comment the deploy step so I remember why it exists
+**When:** 2019-01-16 23:18
+**Summary:** feat(lib): try a new dependency after a blog post
 
 Scratch log for a hobby build — pairs with the commit message above.
