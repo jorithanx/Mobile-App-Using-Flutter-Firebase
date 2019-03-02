@@ -1,6 +1,6 @@
 # Side-project note 229
 
-**When:** 2018-01-02 21:17
-**Summary:** feat(ios): sketch a prototype screen for learning sandbox
+**When:** 2019-03-01 23:28
+**Summary:** test(lib): add a quick test for happy path
 
 Scratch log for a hobby build — pairs with the commit message above.
