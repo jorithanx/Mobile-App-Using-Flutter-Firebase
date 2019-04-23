@@ -1,6 +1,6 @@
 # Side-project note 242
 
-**When:** 2018-02-26 22:18
-**Summary:** feat(assets): try local-first storage after a friend's suggestion
+**When:** 2019-04-22 20:00
+**Summary:** docs(lib): README: why I started this
 
 Scratch log for a hobby build — pairs with the commit message above.
