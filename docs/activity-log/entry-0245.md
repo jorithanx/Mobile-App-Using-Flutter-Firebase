@@ -1,6 +1,6 @@
 # Side-project note 245
 
-**When:** 2018-03-22 13:57
-**Summary:** refactor(lib): simplify state handling — easier to reason about
+**When:** 2019-04-24 20:01
+**Summary:** fix(fonts): unbreak API call (was driving me nuts)
 
 Scratch log for a hobby build — pairs with the commit message above.
