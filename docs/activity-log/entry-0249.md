@@ -1,6 +1,6 @@
 # Side-project note 249
 
-**When:** 2018-03-26 21:26
-**Summary:** fix(fonts): repair typo in env name from last night
+**When:** 2019-05-13 22:46
+**Summary:** fix(assets): unbreak routing (works on my machine now)
 
 Scratch log for a hobby build — pairs with the commit message above.
