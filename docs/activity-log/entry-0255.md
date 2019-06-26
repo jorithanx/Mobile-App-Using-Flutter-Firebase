@@ -1,6 +1,6 @@
 # Side-project note 255
 
-**When:** 2018-04-20 23:52
-**Summary:** test(ios): add a quick test for happy path
+**When:** 2019-06-26 09:06
+**Summary:** chore(lib): housekeeping: ignore build artifacts
 
 Scratch log for a hobby build — pairs with the commit message above.
