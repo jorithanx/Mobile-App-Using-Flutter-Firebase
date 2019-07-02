@@ -1,6 +1,6 @@
 # Side-project note 257
 
-**When:** 2018-04-23 13:39
-**Summary:** feat(ios): sketch a rough UI for weekend experiment
+**When:** 2019-07-01 22:54
+**Summary:** ci(assets): fix artifact path in GitHub Action
 
 Scratch log for a hobby build — pairs with the commit message above.
