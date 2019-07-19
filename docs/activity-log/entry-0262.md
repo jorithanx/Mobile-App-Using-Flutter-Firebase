@@ -1,6 +1,6 @@
 # Side-project note 262
 
-**When:** 2018-04-25 19:38
-**Summary:** feat(lib): sketch a first-pass flow for weekend experiment
+**When:** 2019-07-19 09:10
+**Summary:** feat(docs): try a different layout after a friend's suggestion
 
 Scratch log for a hobby build — pairs with the commit message above.
