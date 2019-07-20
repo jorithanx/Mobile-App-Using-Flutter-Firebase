@@ -1,6 +1,6 @@
 # Side-project note 263
 
-**When:** 2018-04-25 21:49
-**Summary:** refactor(assets): simplify config loading — easier to iterate evenings
+**When:** 2019-07-19 20:16
+**Summary:** refactor(ios): simplify the data layer — easier to iterate evenings
 
 Scratch log for a hobby build — pairs with the commit message above.
