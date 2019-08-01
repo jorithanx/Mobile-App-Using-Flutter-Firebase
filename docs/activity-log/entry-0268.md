@@ -1,6 +1,6 @@
 # Side-project note 268
 
-**When:** 2018-05-07 22:28
-**Summary:** docs(assets): README: what this even is
+**When:** 2019-08-01 07:52
+**Summary:** docs(ios): README: why I started this
 
 Scratch log for a hobby build — pairs with the commit message above.
