@@ -1,6 +1,6 @@
 # Side-project note 272
 
-**When:** 2018-05-23 23:53
-**Summary:** chore(fonts): bump deps / refresh lockfile
+**When:** 2019-08-23 12:17
+**Summary:** feat(fonts): sketch a rough UI for the side project
 
 Scratch log for a hobby build — pairs with the commit message above.
