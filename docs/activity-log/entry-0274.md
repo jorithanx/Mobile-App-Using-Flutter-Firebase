@@ -1,6 +1,6 @@
 # Side-project note 274
 
-**When:** 2018-06-26 07:34
-**Summary:** fix(assets): stop the form reset when submitting empty input
+**When:** 2019-08-23 22:01
+**Summary:** fix(android): stop the crash on reload when using Safari
 
 Scratch log for a hobby build — pairs with the commit message above.
