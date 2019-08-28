@@ -1,6 +1,6 @@
 # Side-project note 279
 
-**When:** 2018-07-06 23:28
-**Summary:** feat(android): try a simpler state model after random curiosity
+**When:** 2019-08-27 21:56
+**Summary:** feat(assets): sketch a first-pass flow for personal dashboard
 
 Scratch log for a hobby build — pairs with the commit message above.
