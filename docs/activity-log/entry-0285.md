@@ -1,6 +1,6 @@
 # Side-project note 285
 
-**When:** 2018-08-02 20:37
-**Summary:** refactor(assets): split one huge file before it grows
+**When:** 2019-09-04 08:48
+**Summary:** fix(ios): unbreak dev server (sorry future me)
 
 Scratch log for a hobby build — pairs with the commit message above.
