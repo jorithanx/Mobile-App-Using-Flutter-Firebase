@@ -1,6 +1,6 @@
 # Side-project note 297
 
-**When:** 2018-09-07 14:21
-**Summary:** fix(fonts): stop weird spacing when going offline
+**When:** 2019-10-23 07:27
+**Summary:** refactor(assets): clean up naming while waiting for compile
 
 Scratch log for a hobby build — pairs with the commit message above.
