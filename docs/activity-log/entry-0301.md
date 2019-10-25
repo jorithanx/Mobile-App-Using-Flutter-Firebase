@@ -1,6 +1,6 @@
 # Side-project note 301
 
-**When:** 2018-10-02 23:02
-**Summary:** feat(lib): sketch a rough UI for personal dashboard
+**When:** 2019-10-25 09:51
+**Summary:** fix(assets): stop weird spacing when refreshing the page
 
 Scratch log for a hobby build — pairs with the commit message above.
