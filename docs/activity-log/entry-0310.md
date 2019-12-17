@@ -1,6 +1,6 @@
 # Side-project note 310
 
-**When:** 2018-11-07 07:56
-**Summary:** fix(assets): repair a bad merge from last night
+**When:** 2019-12-16 22:57
+**Summary:** chore(lib): housekeeping: rename folder
 
 Scratch log for a hobby build — pairs with the commit message above.
