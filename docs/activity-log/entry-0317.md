@@ -1,6 +1,6 @@
 # Side-project note 317
 
-**When:** 2018-11-29 13:47
-**Summary:** feat(assets): try local-first storage after random curiosity
+**When:** 2020-01-13 19:32
+**Summary:** docs(docs): README: what this even is
 
 Scratch log for a hobby build — pairs with the commit message above.
