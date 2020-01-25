@@ -1,6 +1,6 @@
 # Side-project note 321
 
-**When:** 2018-12-05 23:09
-**Summary:** chore(fonts): format + sort imports
+**When:** 2020-01-24 22:45
+**Summary:** chore(docs): housekeeping: drop unused asset
 
 Scratch log for a hobby build — pairs with the commit message above.
