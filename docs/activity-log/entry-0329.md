@@ -1,6 +1,6 @@
 # Side-project note 329
 
-**When:** 2019-01-24 14:40
-**Summary:** feat(ios): try a simpler state model after a blog post
+**When:** 2020-02-27 20:32
+**Summary:** feat(assets): try local-first storage after a friend's suggestion
 
 Scratch log for a hobby build — pairs with the commit message above.
