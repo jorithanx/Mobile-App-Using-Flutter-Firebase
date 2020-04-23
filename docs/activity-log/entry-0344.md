@@ -1,6 +1,6 @@
 # Side-project note 344
 
-**When:** 2019-03-29 20:24
-**Summary:** refactor(android): simplify config loading — easier to show a friend
+**When:** 2020-04-23 14:37
+**Summary:** feat(assets): try a new dependency after a friend's suggestion
 
 Scratch log for a hobby build — pairs with the commit message above.
