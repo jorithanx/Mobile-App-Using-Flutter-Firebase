@@ -1,6 +1,6 @@
 # Side-project note 351
 
-**When:** 2019-04-29 13:37
-**Summary:** chore(fonts): format + remove console logs
+**When:** 2020-06-08 21:42
+**Summary:** chore(android): bump deps / refresh editor settings
 
 Scratch log for a hobby build — pairs with the commit message above.
