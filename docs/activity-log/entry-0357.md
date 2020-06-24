@@ -1,6 +1,6 @@
 # Side-project note 357
 
-**When:** 2019-06-10 22:03
-**Summary:** fix(lib): stop weird spacing when going offline
+**When:** 2020-06-23 20:44
+**Summary:** build(android): tweak Vite config for faster dev
 
 Scratch log for a hobby build — pairs with the commit message above.
