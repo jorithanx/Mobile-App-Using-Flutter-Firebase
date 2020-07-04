@@ -1,6 +1,6 @@
 # Side-project note 360
 
-**When:** 2019-07-09 09:39
-**Summary:** ci(android): fix checkout in GitHub Action
+**When:** 2020-07-03 21:07
+**Summary:** build(docs): tweak ESLint config for faster dev
 
 Scratch log for a hobby build — pairs with the commit message above.
