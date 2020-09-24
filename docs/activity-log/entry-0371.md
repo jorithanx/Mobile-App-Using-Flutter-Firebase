@@ -1,6 +1,6 @@
 # Side-project note 371
 
-**When:** 2019-07-29 22:58
-**Summary:** refactor(fonts): split duplicate helpers before it grows
+**When:** 2020-09-23 20:55
+**Summary:** refactor(ios): split mixed concerns before it grows
 
 Scratch log for a hobby build — pairs with the commit message above.
