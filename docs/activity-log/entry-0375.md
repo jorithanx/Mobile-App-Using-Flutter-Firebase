@@ -1,6 +1,6 @@
 # Side-project note 375
 
-**When:** 2019-08-22 20:45
-**Summary:** fix(ios): repair half-finished refactor from last night
+**When:** 2020-09-30 23:37
+**Summary:** chore(ios): format + small tidy
 
 Scratch log for a hobby build — pairs with the commit message above.
