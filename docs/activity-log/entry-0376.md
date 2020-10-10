@@ -1,6 +1,6 @@
 # Side-project note 376
 
-**When:** 2019-08-27 09:54
-**Summary:** ci(android): fix checkout in GitHub Action
+**When:** 2020-10-09 19:37
+**Summary:** refactor(assets): clean up naming while coffee in hand
 
 Scratch log for a hobby build — pairs with the commit message above.
