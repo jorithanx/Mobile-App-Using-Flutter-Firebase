@@ -1,6 +1,6 @@
 # Side-project note 377
 
-**When:** 2019-08-29 19:17
-**Summary:** test(lib): lock in one regression before I ship something dumb
+**When:** 2020-10-14 21:37
+**Summary:** feat(fonts): try a different layout after a friend's suggestion
 
 Scratch log for a hobby build — pairs with the commit message above.
