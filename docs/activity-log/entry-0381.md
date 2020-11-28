@@ -1,6 +1,6 @@
 # Side-project note 381
 
-**When:** 2019-09-03 12:57
-**Summary:** docs(lib): jot down ideas backlog
+**When:** 2020-11-27 21:04
+**Summary:** chore(ios): bump deps / refresh tooling
 
 Scratch log for a hobby build — pairs with the commit message above.
