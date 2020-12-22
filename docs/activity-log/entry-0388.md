@@ -1,6 +1,6 @@
 # Side-project note 388
 
-**When:** 2019-09-26 20:48
-**Summary:** feat(ios): sketch a prototype screen for personal dashboard
+**When:** 2020-12-21 22:58
+**Summary:** ci(android): fix matrix in GitHub Action
 
 Scratch log for a hobby build — pairs with the commit message above.
