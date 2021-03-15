@@ -1,6 +1,6 @@
 # Side-project note 395
 
-**When:** 2019-10-24 23:45
-**Summary:** feat(android): try a new dependency after a blog post
+**When:** 2021-03-15 13:03
+**Summary:** feat(android): add dark mode toggle — good enough for now
 
 Scratch log for a hobby build — pairs with the commit message above.
